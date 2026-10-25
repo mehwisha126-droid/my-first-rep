@@ -1,0 +1,21 @@
+{
+  "version": 8,
+  "run_id": "7f24f37d452e4aeda5bba10398a40702",
+  "run_name": "rf_n300_dNone",
+  "metrics": {
+    "accuracy": 0.9667,
+    "precision": 0.9697,
+    "recall": 0.9667,
+    "f1": 0.9666,
+    "train_accuracy": 0.9833
+  },
+  "params": {
+    "n_estimators": "300",
+    "max_depth": "-1",
+    "min_samples_split": "4",
+    "random_state": "42",
+    "test_size": "0.2"
+  },
+  "deployed_at": "2026-10-25T14:31:49",
+  "note": "initial deployment"
+}
